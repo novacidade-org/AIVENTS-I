@@ -1,0 +1,3 @@
+para adicionar tabelas:
+    atualizar glossary_tables.yaml
+    atualizar selected_tables
